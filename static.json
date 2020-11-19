@@ -1,7 +1,7 @@
 {
   "https_only": true,
   "headers": {
-    "/*": {
+    "/*": {"text/html; charset=utf-8",
       "Access-Control-Allow-Origin": "*"
     },
   }
