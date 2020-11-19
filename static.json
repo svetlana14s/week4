@@ -2,12 +2,7 @@
   "https_only": true,
   "headers": {
     "/*": {
-      "X-Author": "svetlana14s",
       "Access-Control-Allow-Origin": "*"
     },
-      "/result4/": {
-      "Content-Type": "text/plain",
-      "Access-Control-Allow-Origin": "*",
-     }
   }
 }
