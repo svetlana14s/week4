@@ -1,0 +1,16 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "4-th practic task",
+  "main": "index.js",
+  "scripts": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svetlana14s/week4.git"
+  },
+  "keywords": [
+    "week4"
+  ],
+  "author": "svetlana14s",
+  "license": "MIT"
+}
